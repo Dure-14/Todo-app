@@ -1,0 +1,27 @@
+
+.task-container {
+  margin: 20px;
+  padding: 15px;
+  background-color: white;
+  border-radius: 15px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.task-title {
+  font-size: 20px;
+  font-weight: bold;
+  color: #9395d3;
+}
+
+.task-subtitle {
+  font-size: 16px;
+  color: black;
+  margin-top: 5px;
+}
+.task-container {
+  margin:  40px;     
+  padding: 15px;
+  background-color: white;
+  border-radius: 15px;
+  box-shadow:  2px ;
+}

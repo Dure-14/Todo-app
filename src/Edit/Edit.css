@@ -1,0 +1,37 @@
+.main {
+  /* margin-left: 50px; */
+  font-size: xx-large;
+  font-weight: bolder;
+  align-items: center;
+  padding: 30px;
+  display: flex;
+  color: white;
+
+  background-color: #9395d3;
+}
+.add {
+  background-color: #9395d3;
+  border-radius: 15px;
+  width: 500px;
+  height: 40px;
+  border-color: #9395d3;
+  color: white;
+}
+.btns {
+  width: 1100px;
+  display: flex;
+  justify-content: space-between;
+}
+.label1 {
+  border-top: transparent;
+  border-left: transparent;
+  border-right: transparent;
+}
+.label2 {
+  border-top: transparent;
+  border-left: transparent;
+  border-right: transparent;
+}
+.tide {
+  align-items: center;
+}
